@@ -3,7 +3,7 @@
 This project implements Kanban Board as a front-end web app like GitHub's Projects feature. Kanban board has several columns, and there are several cards in each column.
 
 ## The Task
-All of the features in the `required features` must be implemented. Choose items you want to add from `advanced features` and implement as many as possible.
+All of the features in the `required features` must be implemented. Choose items you want to add from `advanced features` and implement as many as possible. Focus on implementing the function rather than making it beautiful.
 
 ## Required features
 * React
