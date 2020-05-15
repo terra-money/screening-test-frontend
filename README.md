@@ -35,7 +35,7 @@ All of the features in the `required features` must be implemented. Choose items
 ### Structure
 
 * Multiple boards
-* More metadata such as author, labels, assignee, comments, protected
+* More fields such as author, labels, assignee, comments, protected
 * i18n feature
 
 ### PWA
